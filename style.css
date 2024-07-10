@@ -1,0 +1,15 @@
+body{
+    background-color: aqua;
+}
+.button1{
+    height:50px;
+    width:150px;
+    background-color: black;
+    color: aliceblue;
+}
+.button2{
+    height:50px;
+    width:150px;
+    background-color: black;
+    color: aliceblue;
+}
